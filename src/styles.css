@@ -1,4 +1,8 @@
 .App {
+  background-color: black;
+  widows: 100vw;
+  height: 100vh;
   font-family: sans-serif;
   text-align: center;
+  color: white;
 }
